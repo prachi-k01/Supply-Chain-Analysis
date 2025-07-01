@@ -3,11 +3,10 @@ A business analytics case study exploring supply chain KPIs using Power BI, incl
 
 ## Table of Contents
 - [Objective](#objective)
-- [Business Questions](#business-questions-answered)
-- [Data Cleaning](#data-cleaning--preparation)
-- [Data Analysis using SQL](#data-analysis-using-sql)
+- [Business Questions Answered](#business-questions-answered)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
 - [KPIs](#key-performance-indicators-kpis)
-- [Dashboards](#dashboard-overview)
+- [Dashboard Overview](#dashboard-overview)
 - [Key Insights](#key-insights)
 - [References](#references)
 
